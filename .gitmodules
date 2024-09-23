@@ -1,12 +1,12 @@
 [submodule "api"]
 	path = api
-	url = ./api
+	url = https://github.com/PhanhotboY/ecommerce-nodejs
 [submodule "client-nextjs"]
 	path = client-nextjs
 	url = https://github.com/PhanhotboY/shopee-nextjs
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/PhanhotboY/shopee-reactjs
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/PhanhotboY/NodeJS_Shop
