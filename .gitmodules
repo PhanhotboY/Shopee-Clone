@@ -3,7 +3,7 @@
 	url = ./api
 [submodule "client-nextjs"]
 	path = client-nextjs
-	url = ./client-nextjs/
+	url = https://github.com/PhanhotboY/shopee-nextjs
 [submodule "client"]
 	path = client
 	url = ./client
