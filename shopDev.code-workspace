@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "api-nodejs",
+      "path": "api"
+    },
+    {
+      "name": "server-nodejs",
+      "path": "server"
+    },
+    {
+      "name": "client",
+      "path": "client"
+    },
+    {
+      "name": "client-nextjs",
+      "path": "client-nextjs"
+    },
+    {
+      "name": "client-vite",
+      "path": "dashboard-vite"
+    }
+  ],
+  "settings": {
+    "eslint.enable": true,
+    "liveServer.settings.multiRootWorkspaceName": "ecommerce-nodejs",
+    "eslint.workingDirectories": [
+      "./api",
+      "./server",
+      "./client",
+      "./client-nextjs",
+      "./dashboard-vite"
+    ]
+  }
+}

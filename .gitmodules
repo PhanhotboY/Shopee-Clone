@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = ./api
+[submodule "client-nextjs"]
+	path = client-nextjs
+	url = ./client-nextjs/
+[submodule "client"]
+	path = client
+	url = ./client
+[submodule "server"]
+	path = server
+	url = ./server
